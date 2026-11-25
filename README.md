@@ -2,7 +2,6 @@
 
 BT3041 project: immune subtypes of sepsis (GSE65682) and 28-day mortality.
 
-Final report: [BT3041_Sepsis_Report.pdf](BT3041_Sepsis_Report.pdf)
 
 ## Team members
 
